@@ -1,6 +1,6 @@
 # Sigil UI
 
-A key‑verification gate for Roblox script hubs, shaped like a **sealed access pass**. Same engine as [Onyx](./README_Onyx.md), a completely different idea of what a key screen looks like.
+A key‑verification gate for Roblox script hubs, shaped like a **sealed access pass**. Same engine as [Onyx](./README_OnyxUI.md), a completely different idea of what a key screen looks like.
 
 A key is treated as admission: a **dark card‑stock pass** on a dimmed backdrop, split by a **perforation seam** with two punched notches, an eyebrow‑labelled serial field, and a **wax‑seal medallion** in the stub that *stamps shut* — ring and check — the moment your key is accepted. One restrained accent (wax burgundy); everything else is warm ink on dark stock.
 
